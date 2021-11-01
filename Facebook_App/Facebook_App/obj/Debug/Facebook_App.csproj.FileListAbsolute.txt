@@ -1,0 +1,7 @@
+F:\Dot_net\Facebook_App\Facebook_App\bin\Debug\Facebook_App.exe.config
+F:\Dot_net\Facebook_App\Facebook_App\bin\Debug\Facebook_App.exe
+F:\Dot_net\Facebook_App\Facebook_App\bin\Debug\Facebook_App.pdb
+F:\Dot_net\Facebook_App\Facebook_App\obj\Debug\Facebook_App.csproj.AssemblyReference.cache
+F:\Dot_net\Facebook_App\Facebook_App\obj\Debug\Facebook_App.csproj.CoreCompileInputs.cache
+F:\Dot_net\Facebook_App\Facebook_App\obj\Debug\Facebook_App.exe
+F:\Dot_net\Facebook_App\Facebook_App\obj\Debug\Facebook_App.pdb
